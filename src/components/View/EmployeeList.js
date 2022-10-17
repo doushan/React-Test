@@ -44,7 +44,7 @@ const EmployeeList = () => {
               <td>{val.status}</td>
               <td>{val.birthDate}</td>
               <td>
-                <Button data-cy="delete-record">Edit</Button>
+                <Button data-cy="edit-record">Edit</Button>
               </td>
               <td>
                 <Button data-cy="delete-record">Delete</Button>
